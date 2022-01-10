@@ -28,7 +28,8 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 24.01.2022 | Vanessa Kaiser | What is the StackOverflow Survey and what can you learn from it? |
 | 31.01.2022 |         |       |
 | 07.02.2022 | *blocked* | *2nd PLF* |
-| 14.02.2022 |         |       |
+| 14.02.2022 | Florian Auer   |  What is Markdown, why is it useful, and what cool things can you do with it?
+     |
 
 ## SS 2022
 
